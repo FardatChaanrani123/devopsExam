@@ -1,5 +1,5 @@
 name: 'Deploy App to S3'
-on: [main]
+on: [dev]
 
 jobs:
   deploy:
